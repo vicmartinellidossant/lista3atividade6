@@ -6,3 +6,4 @@ percentDescont = float(input("Qual é o percentual de desconto para a venda? "))
 
 sale = percentDescont / 100
 
+pricefin =
